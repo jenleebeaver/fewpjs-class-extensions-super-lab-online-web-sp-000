@@ -26,3 +26,7 @@ class Tree{
 //   definition for `Deciduous`:
 //
 // > Deciduous trees shed their leaves annually.
+
+class Deciduous extends Tree{
+  constructor()
+}
