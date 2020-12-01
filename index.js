@@ -28,7 +28,7 @@ class Tree{
 // > Deciduous trees shed their leaves annually.
 
 class Deciduous extends Tree{
-  constructor(name){
+  constructor(name, super.species){
     this.name = name;
     super.species;
   }
