@@ -3,6 +3,6 @@
 //   and assign this to a property named `species`.
 // - A `Tree` should have a static method, `definition()`, that returns a short
 //   definition of all trees.
-//  
+//
 // > A tree is a perennial plant with an elongated stem, or trunk, supporting
 // > branches and leaves.
