@@ -8,5 +8,7 @@
 // > branches and leaves.
 
 class Tree{
-  
+  constructor(species){
+    this.species = species;
+  }
 }
